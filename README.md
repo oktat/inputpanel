@@ -6,6 +6,10 @@ Egy Swing komponens, ami tartalmaz egy feliratot és egy beviteli mezőt.
 
 * [https://oktat.github.io/inputpanel/](https://oktat.github.io/inputpanel/)
 
+## Letöltés
+
+* [https://github.com/oktat/inputpanel/releases](https://github.com/oktat/inputpanel/releases)
+
 ## Példa
 
 ```java
